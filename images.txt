@@ -1,1 +1,1 @@
-eysp/portainer-ce:latest
+portainer/portainer:develop
