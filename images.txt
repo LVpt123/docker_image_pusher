@@ -1,1 +1,1 @@
-LVpt123/portainer-ce:latest
+eysp/portainer-ce
