@@ -1,1 +1,1 @@
-portainer/portainer
+--platform=linux/alm/v7 portainer/portainer
