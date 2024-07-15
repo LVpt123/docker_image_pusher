@@ -1,1 +1,1 @@
-portainer/portainer:develop
+portainer/portainer
