@@ -1,1 +1,1 @@
---platform=linux/arm/v7 portainer/portainer
+--platform=linux/arm/v7 iyuucn/iyuuplus-dev
