@@ -1,1 +1,1 @@
---platform=linux/arm/v7 LVpt123/portainer-ce
+--platform=LVpt123/portainer-ce
