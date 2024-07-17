@@ -1,1 +1,1 @@
---platform=linux/arm/v7 git@github.com:LVpt123/portainer-ce.git
+--platform=linux/arm/v7 gh repo clone LVpt123/portainer-ce
