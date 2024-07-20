@@ -1,1 +1,1 @@
---platform=linux/arm/v7 6053537/portainer-ce
+--platform=linux/arm/v7 iyuucn/iyuuplus-dev:latest
