@@ -1,1 +1,1 @@
---platform=linux/arm/v7 iyuucn/iyuuplus-dev:latest
+ --platform=linux/arm/v7 whyour/qinglong:latest
