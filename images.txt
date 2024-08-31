@@ -1,1 +1,1 @@
- --platform=linux/arm/v7 asdaragon/qiandao:latest
+ --platform=linux/arm/v8 linuxserver/qbittorrent
