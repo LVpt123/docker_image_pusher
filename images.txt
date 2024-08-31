@@ -1,1 +1,1 @@
---platform=linux/arm/v7 portainer/portainer
+--platform=linux/arm/v8 qbittorrent/qBittorrent
