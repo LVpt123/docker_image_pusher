@@ -1,1 +1,1 @@
---platform=linux/arm/v8 linuxserver/docker-qbittorrent
+--platform=linux/arm/v8 dracula/qbittorrent
