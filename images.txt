@@ -1,1 +1,1 @@
---platform=linux/arm/v8 dracula/qbittorrent
+--platform=linux/arm/v8 linuxserver/qbittorrent
